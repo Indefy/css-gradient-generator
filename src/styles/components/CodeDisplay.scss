@@ -1,0 +1,28 @@
+.code-display {
+	margin-top: 20px;
+	text-align: center;
+}
+
+.compatibility-options {
+	display: flex;
+	justify-content: center;
+	margin-bottom: 10px;
+}
+
+.compatibility-options label {
+	margin-right: 20px;
+	font-weight: 500;
+	cursor: pointer;
+}
+
+.compatibility-options input {
+	margin-right: 5px;
+}
+
+button {
+	margin-bottom: 10px;
+}
+
+pre {
+	margin-top: 10px;
+}
