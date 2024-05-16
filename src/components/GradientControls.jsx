@@ -1,4 +1,3 @@
-// src/components/GradientControls.jsx
 "use client";
 
 import React from "react";

@@ -1,4 +1,3 @@
-// src/components/GradientList.jsx
 "use client";
 
 import React from "react";

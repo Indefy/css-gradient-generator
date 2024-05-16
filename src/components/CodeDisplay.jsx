@@ -1,4 +1,3 @@
-// src/components/CodeDisplay.jsx
 "use client";
 
 import React, { useState } from "react";
