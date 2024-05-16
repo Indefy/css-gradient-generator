@@ -30,6 +30,9 @@ const Home = () => {
 				compatibility={compatibility}
 				setCompatibility={setCompatibility}
 			/>
+			<div className="footer">
+				<h4> Site created by Adi Booker 2024</h4>
+			</div>
 		</div>
 	);
 };
